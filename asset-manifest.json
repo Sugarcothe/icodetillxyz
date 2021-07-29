@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/icodetillxyz/static/css/main.b055a6b3.chunk.css",
+    "main.js": "/icodetillxyz/static/js/main.641ad932.chunk.js",
+    "main.js.map": "/icodetillxyz/static/js/main.641ad932.chunk.js.map",
+    "runtime-main.js": "/icodetillxyz/static/js/runtime-main.383c52cd.js",
+    "runtime-main.js.map": "/icodetillxyz/static/js/runtime-main.383c52cd.js.map",
+    "static/css/2.31ff0196.chunk.css": "/icodetillxyz/static/css/2.31ff0196.chunk.css",
+    "static/js/2.33a1dc8f.chunk.js": "/icodetillxyz/static/js/2.33a1dc8f.chunk.js",
+    "static/js/2.33a1dc8f.chunk.js.map": "/icodetillxyz/static/js/2.33a1dc8f.chunk.js.map",
+    "static/js/3.311a44e3.chunk.js": "/icodetillxyz/static/js/3.311a44e3.chunk.js",
+    "static/js/3.311a44e3.chunk.js.map": "/icodetillxyz/static/js/3.311a44e3.chunk.js.map",
+    "index.html": "/icodetillxyz/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/icodetillxyz/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.b055a6b3.chunk.css.map": "/icodetillxyz/static/css/main.b055a6b3.chunk.css.map",
+    "static/js/2.33a1dc8f.chunk.js.LICENSE.txt": "/icodetillxyz/static/js/2.33a1dc8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383c52cd.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.33a1dc8f.chunk.js",
+    "static/css/main.b055a6b3.chunk.css",
+    "static/js/main.641ad932.chunk.js"
+  ]
+}
